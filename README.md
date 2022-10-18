@@ -1,6 +1,6 @@
-# fetchapi
-
-This template should help get you started developing with Vue 3 in Vite.
+# VueJS Axios
+>Ini Sebagai Penggunaan Cara Mengkonsumsi RestApi Dari Publik Menggunakan VueJS
+>Repository Ini Terhubung Dari 2 Repository Yang Lain: <br> - vueJs-Crud Dan Laravel-RestApi
 
 ## Recommended IDE Setup
 
